@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="Description" >
+Title:<Textarea id="title" name="title"></Textarea><br>
+Enter:<textarea id="desc" name="desc"></textarea><br>
+<input type="submit" value="submit">
+</form>
+</body>
+</html>
